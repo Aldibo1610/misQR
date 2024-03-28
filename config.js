@@ -1,2 +1,2 @@
 // MODIFICA ESTA URL POR LA DEL SERVICIO WEB DESPUES DE HABERLO DESPLEGADO
-const AS_URL_BASE = "https://script.google.com/macros/s/AquiVaTuURL/exec";
+const AS_URL_BASE = "https://script.google.com/macros/s/AKfycbx_MhXuuLmf2GUXnVKCrX7mUEbSNJm9nF0KFWlgQzPRfKw3ragAXwH-xlCGkv-V2aMxaQ/exec";
